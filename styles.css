@@ -1,0 +1,26 @@
+body {
+  background-image: url('war.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  align-items: center;
+  background-color:black;
+ }
+
+ label{
+	text-align: center;
+	color:white;
+}
+
+input[type=text],[type=email],[type=tel] {
+  width: 80%;
+  padding: 12px 20px;
+  margin: 8px 0;
+}
+
+textarea{
+  width: 80%;
+  padding: 12px 20px;
+  margin: 8px 0;
+	
+}
+
